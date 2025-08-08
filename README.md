@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @susmiita
-- 👀 I’m interested in programming languages which includes java,python
+- 👀 I’m interested in programming languages which includes python
 - 🌱 I’m currently working in AI projects.
 - 💞️ I’m looking to collaborate on developing game
 - 📫 To contact:susmitabaishya21@gmail.com
